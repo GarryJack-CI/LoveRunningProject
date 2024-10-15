@@ -342,7 +342,7 @@ main {
     }
 
     #benefits-physical > div, #benefits-mental > div {
-        width: 75;
+        width: 75%;
     }
 
     #benefits-mental > div {
